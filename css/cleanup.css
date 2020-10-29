@@ -15,6 +15,6 @@ div#wall div#tag-2 {
   background: none;
 }
 
-#wall .parent div#tag-5.slick {
+div#wall div.parent div#tag-5.slick {
   background: none;
 }
